@@ -1,2 +1,2 @@
 # popcorntime
-Popcorn Time sebagai pemecahan masalah saat pemutaran online film terkendala.
+Popcorn Time as a solution to problems when online movie playback is hampered.
